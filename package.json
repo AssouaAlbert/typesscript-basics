@@ -1,0 +1,13 @@
+{
+  "name": "typesscript-basics-main",
+  "version": "1.0.0",
+  "description": "Typescript Basics Udemy course - Basic Types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc:compile":"tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
